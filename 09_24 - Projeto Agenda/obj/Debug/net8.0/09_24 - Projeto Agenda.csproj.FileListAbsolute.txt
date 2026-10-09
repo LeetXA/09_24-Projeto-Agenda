@@ -1,0 +1,14 @@
+D:\FACULDADE\2º PERIODO\2º SEMESTRE\09_24 - Projeto Agenda\bin\Debug\net8.0\09_24 - Projeto Agenda.exe
+D:\FACULDADE\2º PERIODO\2º SEMESTRE\09_24 - Projeto Agenda\bin\Debug\net8.0\09_24 - Projeto Agenda.deps.json
+D:\FACULDADE\2º PERIODO\2º SEMESTRE\09_24 - Projeto Agenda\bin\Debug\net8.0\09_24 - Projeto Agenda.runtimeconfig.json
+D:\FACULDADE\2º PERIODO\2º SEMESTRE\09_24 - Projeto Agenda\bin\Debug\net8.0\09_24 - Projeto Agenda.dll
+D:\FACULDADE\2º PERIODO\2º SEMESTRE\09_24 - Projeto Agenda\bin\Debug\net8.0\09_24 - Projeto Agenda.pdb
+D:\FACULDADE\2º PERIODO\2º SEMESTRE\09_24 - Projeto Agenda\obj\Debug\net8.0\09_24 - Projeto Agenda.GeneratedMSBuildEditorConfig.editorconfig
+D:\FACULDADE\2º PERIODO\2º SEMESTRE\09_24 - Projeto Agenda\obj\Debug\net8.0\09_24 - Projeto Agenda.AssemblyInfoInputs.cache
+D:\FACULDADE\2º PERIODO\2º SEMESTRE\09_24 - Projeto Agenda\obj\Debug\net8.0\09_24 - Projeto Agenda.AssemblyInfo.cs
+D:\FACULDADE\2º PERIODO\2º SEMESTRE\09_24 - Projeto Agenda\obj\Debug\net8.0\09_24 - Projeto Agenda.csproj.CoreCompileInputs.cache
+D:\FACULDADE\2º PERIODO\2º SEMESTRE\09_24 - Projeto Agenda\obj\Debug\net8.0\09_24 - Projeto Agenda.dll
+D:\FACULDADE\2º PERIODO\2º SEMESTRE\09_24 - Projeto Agenda\obj\Debug\net8.0\refint\09_24 - Projeto Agenda.dll
+D:\FACULDADE\2º PERIODO\2º SEMESTRE\09_24 - Projeto Agenda\obj\Debug\net8.0\09_24 - Projeto Agenda.pdb
+D:\FACULDADE\2º PERIODO\2º SEMESTRE\09_24 - Projeto Agenda\obj\Debug\net8.0\09_24 - Projeto Agenda.genruntimeconfig.cache
+D:\FACULDADE\2º PERIODO\2º SEMESTRE\09_24 - Projeto Agenda\obj\Debug\net8.0\ref\09_24 - Projeto Agenda.dll
